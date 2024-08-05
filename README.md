@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brad</h1>
-<h3 align="center">Canadian backend dev</h3>
+<h3 align="center">Canadian backend dev (oh, and I make minecraft mods)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradhamter&label=Profile%20views&color=0e75b6&style=flat" alt="bradhamter" /> </p>
 
